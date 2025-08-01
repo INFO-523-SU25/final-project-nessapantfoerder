@@ -1,11 +1,10 @@
 ---
-title: "Proposal title"
-subtitle: "Proposal"
+title: "Cats in the USA"
 author: 
-  - name: "Team Name - Team member 1, Team member 2,..."
+  - name: "Nessa Pantfoerder"
     affiliations:
       - name: "College of Information Science, University of Arizona"
-description: "Project description"
+description: "An interactive dashboard of pet cats tracked in the USA"
 format:
   html:
     code-tools: true
