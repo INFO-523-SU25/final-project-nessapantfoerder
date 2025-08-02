@@ -56,10 +56,9 @@ The dataset used is "Pet Cats United States" from the Movebank Data Repostiory. 
   - Create filters for users to view specific subsets of cats  
 
 ## Timeline
-- Week 6: Perform basic exploratory analysis and explore static visualizations that could be used for the dashboard.
-- Week 7: Develop dashboard components.
-- Week 8: Add outlier and filtering features.
-- Week 9: Finalize dasbhoard and submit project write-up.
+- Week 5: Perform basic exploratory analysis and explore static visualizations that could be used for the dashboard.
+- Week 6: Develop dashboard components with outliers and filtering features.
+- Week 7: Finalize dasbhoard and submit project write-up.
 
 ## Project Organization
 ```
